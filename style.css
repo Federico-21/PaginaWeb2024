@@ -4,8 +4,19 @@
 }
 .img-01{
     text-align: center;
-    width: 450px;
-    height: 350px;
+    display: block;
+    margin: 0 auto;
+    width: 350px;
+    height: 250px;
     border-radius: 25px;
    
+}
+.video-01{
+    text-align: center;
+    
+}
+.texto{
+    text-align:  center;
+    background-color: rgb(225, 213, 213);
+    color: brown;
 }
